@@ -1,2 +1,2 @@
 # hskimsky.github.io
-HaNeul-Kim.github.io
+hskimsky.github.io
